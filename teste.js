@@ -1,7 +1,7 @@
 
 
   (function() {
-    const dominioPermitido = "seu-moodle.com.br";
+    const dominioPermitido = "ead.unifor.br";
     const referrer = document.referrer;
 
     // Se não houver referrer ou se o domínio não for o do Moodle
